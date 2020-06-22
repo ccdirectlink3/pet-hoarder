@@ -1,0 +1,7 @@
+{
+  "id": "pet-hoarder",
+  "version": "1.0.0",
+  "title": "Pet Hoarder",
+  "description": "Lots of pets for ur pets",
+  "prestart": "prestart.js"
+}
